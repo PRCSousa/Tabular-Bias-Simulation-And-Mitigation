@@ -1,4 +1,4 @@
-# AI-Bias-Mitigation-And-Fairness
+# AI Bias Mitigation And Fairness
 
 ## Project Overview
 
