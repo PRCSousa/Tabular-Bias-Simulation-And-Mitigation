@@ -1,4 +1,4 @@
-# AI Bias Mitigation And Fairness
+# Tabular Data Bias Simulation, Analysis and Mitigaion
 
 ## Project Overview
 
